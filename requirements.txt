@@ -1,0 +1,1 @@
+openai pypdf2 pdfplumber
